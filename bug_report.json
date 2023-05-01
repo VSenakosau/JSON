@@ -2,7 +2,7 @@
   "id": 128,
   "severity": "trivial",
   "environment": "Windows 11 Pro , Chrome 112",
-  "title": "The message in the tooltip begins with a lowercase letter when hovering over the image of the link "[Argentine peso forecast: ARS seeking new bottom amid longstanding and persistent economic woes] on the https://capital.com/argentine-peso-forecast-ars page",
+  "title": "The message in the tooltip begins with a lowercase letter when hovering over the image of the link [Argentine peso forecast: ARS seeking new bottom amid longstanding and persistent economic woes] on the https://capital.com/argentine-peso-forecast-ars page",
     "stepsToReproduce":
     [
     "1. Navigate to capita.com",
