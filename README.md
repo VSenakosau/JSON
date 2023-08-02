@@ -118,4 +118,36 @@ Click "Add file", select "Create new file" ->
 Enter the commit data in the "Commit new file" section ->
 -> Click the "Commit changes" button
 ```
+## 15. On the web interface, modify bug_report.json file, add bug report in JSON format
+```
+Click on the file name ->
+-> Click on the "Edit this file" icon ->
+-> Enter data
+```
+enter the following information
+```
+{
+  "id": 128,
+  "severity": "trivial",
+  "environment": "Windows 11 Pro , Chrome 112",
+  "title": "The message in the tooltip begins with a lowercase letter when hovering over the image of the link [Argentine peso forecast: ARS seeking new bottom amid longstanding and persistent economic woes] on the https://capital.com/argentine-peso-forecast-ars page",
+    "stepsToReproduce": [
+    "1. Navigate to capita.com",
+    "2. Scroll down to the [Financial News] block",
+    "3. Click tab [Forex]",
+    "4. Select section [USD latest: GBP/USD, EUR/USD, USD/JPY trading setups]",
+    "5. Hover the cursor over the image of the links in the [USD latest: GBP/USD, EUR/USD, USD/JPY trading setups] section"
+    ],
+   "expectedResult": "The text of the tooltips on each image starts with a capital letter",
+   "actualResult": "The text of the tooltips for the link image [Argentine peso forecast: ARS seeking new bottom amid longstanding and persistent economic woes] begins with a lowercase letter",
+   "attachment": "(URL to the video)",
+   "License": "All",
+   "author": "SVadim"
+}
+```
+## 16. Make Commit changes (save) changes on the web interface
+```
+Enter the commit data in the "Commit new file" section ->
+-> Click the "Commit changes" button
+```
 
