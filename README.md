@@ -107,5 +107,15 @@ vvsen@Vadim MINGW64 /c/vadim/qa/github/json (main)
 `git commit -m "sending preferences.json and skills.json"`   
 `git push`   
 ## 13. Create the bug_report.json file at the web interface
+We have to go to the GitHub page and create a file from there   
+```
+Click "Add file", select "Create new file" ->
+-> Enter the file name "bug_report.json"
+```
 
+## 14. Make Commit changes (save) changes on the web interface
+```
+Enter the commit data in the "Commit new file" section ->
+-> Click the "Commit changes" button
+```
 
