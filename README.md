@@ -145,9 +145,12 @@ enter the following information
    "author": "SVadim"
 }
 ```
-## 16. Make Commit changes (save) changes on the web interface
+## 16. Make Commit changes (save) changes on the web interface   `( изменить)`   
 ```
 Enter the commit data in the "Commit new file" section ->
 -> Click the "Commit changes" button
 ```
+## 17. Synchronize remote and local JSON repository
+vvsen@Vadim MINGW64 /c/vadim/qa/github/json (main)   
+`git pull origin main`   
 
