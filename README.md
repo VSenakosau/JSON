@@ -153,16 +153,20 @@ Enter the commit data in the "Commit new file" section ->
 ## 17. Synchronize remote and local JSON repository
 vvsen@Vadim MINGW64 /c/vadim/qa/github/json (main)   
 `git pull origin main`   
-remote: Enumerating objects: 18, done.
-remote: Counting objects: 100% (18/18), done.
-remote: Compressing objects: 100% (15/15), done.
-remote: Total 16 (delta 8), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (16/16), 5.70 KiB | 104.00 KiB/s, done.
-From https://github.com/VSenakosau/JSON
- * branch            main       -> FETCH_HEAD
-   7c36923..49d5f5f  main       -> origin/main
-Updating 7c36923..49d5f5f
-Fast-forward
- README.md | 111 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
- 1 file changed, 111 insertions(+)
+We have command successfully executed, with a notification that our new file bug_report.json has been added   
+```
+remote: Enumerating objects: 18, done.   
+remote: Counting objects: 100% (18/18), done.   
+remote: Compressing objects: 100% (15/15), done.   
+remote: Total 16 (delta 8), reused 0 (delta 0), pack-reused 0   
+Unpacking objects: 100% (16/16), 5.70 KiB | 104.00 KiB/s, done.   
+From https://github.com/VSenakosau/JSON   
+* branch            main       -> FETCH_HEAD   
+7c36923..49d5f5f  main       -> origin/main   
+Updating 7c36923..49d5f5f   
+Fast-forward   
+README.md | 111 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   
+1 file changed, 111 insertions(+)
+```
+
 
