@@ -41,8 +41,8 @@ $ nano new.json
 "future_salary": 4700
 }
 ```
-Ctrl+O enter   
-Ctrl+X enter      
+Ctrl+O enter (save)      
+Ctrl+X enter (exit)        
 ## 8. Send the changes to a remote repository
 vvsen@Vadim MINGW64 /c/vadim/qa/github/JSON (main)   
 `git add .`   
@@ -76,8 +76,8 @@ nano preferences.json
 "country_to_visit": "USA"
 }
 ```
-Ctrl+O enter   
-Ctrl+X enter   
+Ctrl+O enter (save)      
+Ctrl+X enter (exit)   
 ## 11. Create a skills.json file, add information about skills that are going to be learned at the course in JSON format
 ```
 cat > skills.json
@@ -99,8 +99,8 @@ cat > skills.json
 ]
 }
 ```
-Ctrl+O enter   
-Ctrl+X enter   
+Ctrl+O enter (save)      
+Ctrl+X enter (exit)     
 ## 12. Send two files at once to the remote repository
 vvsen@Vadim MINGW64 /c/vadim/qa/github/json (main)   
 `git add preferences.json skills.json`   
@@ -112,7 +112,6 @@ We have to go to the GitHub page and create a file from there
 Click "Add file", select "Create new file" ->
 -> Enter the file name "bug_report.json"
 ```
-
 ## 14. Make Commit changes (save) changes on the web interface
 ```
 click the "Commit changes" button ->      
@@ -146,7 +145,7 @@ enter the following information
    "author": "SVadim"
 }
 ```
-## 16. Make Commit changes (save) changes on the web interface   `( изменить)`   
+## 16. Make Commit changes (save) changes on the web interface     
 ```
 click the "Commit changes" button ->      
 if necessary, enter information in the Commit message and Extendeddescription fields ->   
