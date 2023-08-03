@@ -115,8 +115,9 @@ Click "Add file", select "Create new file" ->
 
 ## 14. Make Commit changes (save) changes on the web interface
 ```
-Enter the commit data in the "Commit new file" section ->
--> Click the "Commit changes" button
+click the "Commit changes" button ->      
+if necessary, enter information in the Commit message and Extendeddescription fields ->   
+ click the "Commit changes" button   
 ```
 ## 15. On the web interface, modify bug_report.json file, add bug report in JSON format
 ```
@@ -147,8 +148,9 @@ enter the following information
 ```
 ## 16. Make Commit changes (save) changes on the web interface   `( изменить)`   
 ```
-Enter the commit data in the "Commit new file" section ->
--> Click the "Commit changes" button
+click the "Commit changes" button ->      
+if necessary, enter information in the Commit message and Extendeddescription fields ->   
+ click the "Commit changes" button   
 ```
 ## 17. Synchronize remote and local JSON repository
 vvsen@Vadim MINGW64 /c/vadim/qa/github/json (main)   
