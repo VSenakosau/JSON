@@ -151,7 +151,7 @@ click the "Commit changes" button ->
 if necessary, enter information in the Commit message and Extendeddescription fields ->   
  click the "Commit changes" button   
 ```
-## 17. Synchronize remote and local JSON repository
+## 17. Synchronize remote and local JSON repository.
 vvsen@Vadim MINGW64 /c/vadim/qa/github/json (main)   
 `git pull origin main`   
 We have command successfully executed, with a notification that our new file bug_report.json has been added   
